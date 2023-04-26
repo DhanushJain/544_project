@@ -1,8 +1,7 @@
 **544 NLP project**
-The first phase involves develop-
-ing a story generation system using BART.
+The first phase involves developing a story generation system using BART.<br>
 In the second phase of the project, a sentiment analysis
 model will be deployed on the generated stories as
 well as the story titles separately to evaluate the
-emotions of the stories
+emotions of the stories<br>
 Here are the codes for story generation and sentiment analysis, each of them contain a readme on how to run the code.
